@@ -1,0 +1,982 @@
+[
+    {
+        "LiftId": "e98b5a99-05ac-44a4-834f-506f1f9aa6cd",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 14,
+        "Weight": 89,
+        "EntryDateTime": "2024-09-15T10:31:20.912390"
+    },
+    {
+        "LiftId": "44caabd9-b1ef-4827-85d2-472a8c4c3097",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 8,
+        "Weight": 47,
+        "EntryDateTime": "2024-09-14T10:31:20.912671"
+    },
+    {
+        "LiftId": "8da0b2a6-bbc9-436b-b572-129cb32a9fcb",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 11,
+        "Weight": 82,
+        "EntryDateTime": "2024-09-13T10:31:20.912922"
+    },
+    {
+        "LiftId": "7d9d01b2-44e0-42c4-9a65-76eee43530b3",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 10,
+        "Weight": 76,
+        "EntryDateTime": "2024-09-12T10:31:20.913360"
+    },
+    {
+        "LiftId": "49eb424d-587c-4669-a353-ba3ac45ded60",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 15,
+        "Weight": 64,
+        "EntryDateTime": "2024-09-11T10:31:20.913787"
+    },
+    {
+        "LiftId": "2dd8f6c7-aa68-4cc7-81bf-be9d8e6b2fec",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 11,
+        "Weight": 94,
+        "EntryDateTime": "2024-09-10T10:31:20.914005"
+    },
+    {
+        "LiftId": "bb1eb9ef-1b2e-409c-9769-176a7b8c5afe",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 11,
+        "Weight": 97,
+        "EntryDateTime": "2024-09-09T10:31:20.914184"
+    },
+    {
+        "LiftId": "896b01a5-4862-4cda-9fd2-2c622340d043",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 13,
+        "Weight": 58,
+        "EntryDateTime": "2024-09-08T10:31:20.914298"
+    },
+    {
+        "LiftId": "23d5e25e-7d33-40f8-9cdb-952d6d1db5d5",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 15,
+        "Weight": 76,
+        "EntryDateTime": "2024-09-07T10:31:20.914577"
+    },
+    {
+        "LiftId": "5ef20637-b6db-40d7-9be9-bfc1cddb5c92",
+        "MainMuscleId": "8ee5a29d-b676-41d1-8513-c06c5990e120",
+        "Reps": 13,
+        "Weight": 83,
+        "EntryDateTime": "2024-09-06T10:31:20.914789"
+    },
+    {
+        "LiftId": "db78f99d-898a-4377-a43b-dcd5317caf52",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 11,
+        "Weight": 51,
+        "EntryDateTime": "2024-09-15T10:31:20.915009"
+    },
+    {
+        "LiftId": "16dd4d51-4128-49a0-b406-e0962d475614",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 8,
+        "Weight": 63,
+        "EntryDateTime": "2024-09-14T10:31:20.915053"
+    },
+    {
+        "LiftId": "4f4ae91e-4ffe-49ad-bf3a-45d86c7fb52a",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 11,
+        "Weight": 62,
+        "EntryDateTime": "2024-09-13T10:31:20.915066"
+    },
+    {
+        "LiftId": "448ad77c-5280-43b0-b7fc-6db848913fa2",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 13,
+        "Weight": 46,
+        "EntryDateTime": "2024-09-12T10:31:20.915076"
+    },
+    {
+        "LiftId": "4beecd7e-d1ba-4486-8c5b-ae0efc62eced",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 10,
+        "Weight": 86,
+        "EntryDateTime": "2024-09-11T10:31:20.915087"
+    },
+    {
+        "LiftId": "88405462-00fd-499f-9ca7-dead6a887087",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 14,
+        "Weight": 96,
+        "EntryDateTime": "2024-09-10T10:31:20.915098"
+    },
+    {
+        "LiftId": "3adc65ed-76e7-418e-be53-16a240106886",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 11,
+        "Weight": 47,
+        "EntryDateTime": "2024-09-09T10:31:20.915108"
+    },
+    {
+        "LiftId": "6140cdb4-8ec3-4bb8-a1ea-673449f3d33c",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 14,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-08T10:31:20.915119"
+    },
+    {
+        "LiftId": "b69da6a9-97fc-4715-9c04-30b52226ef27",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 10,
+        "Weight": 96,
+        "EntryDateTime": "2024-09-07T10:31:20.915130"
+    },
+    {
+        "LiftId": "8220584a-df55-45a1-b67c-b8b239699e6f",
+        "MainMuscleId": "b73d4d5d-f8f1-4a1b-a080-3648d7e56e8e",
+        "Reps": 8,
+        "Weight": 95,
+        "EntryDateTime": "2024-09-06T10:31:20.915142"
+    },
+    {
+        "LiftId": "3fd784ea-a92a-4ad4-a997-ef3cfd654263",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 11,
+        "Weight": 98,
+        "EntryDateTime": "2024-09-15T10:31:20.915155"
+    },
+    {
+        "LiftId": "222f9136-5e81-4b00-b654-0969a9ebd651",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 15,
+        "Weight": 87,
+        "EntryDateTime": "2024-09-14T10:31:20.915165"
+    },
+    {
+        "LiftId": "51862d9b-df27-4fc2-bd8e-d360dc19ec21",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 13,
+        "Weight": 75,
+        "EntryDateTime": "2024-09-13T10:31:20.915175"
+    },
+    {
+        "LiftId": "b1064df9-58ff-4953-a499-0ba263d0fdc4",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 15,
+        "Weight": 92,
+        "EntryDateTime": "2024-09-12T10:31:20.915185"
+    },
+    {
+        "LiftId": "60941cda-5e3d-40fc-bf7b-7c9d81b56248",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 8,
+        "Weight": 86,
+        "EntryDateTime": "2024-09-11T10:31:20.915196"
+    },
+    {
+        "LiftId": "cb7603bc-45be-406b-ae60-8f5a8242cf9c",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 13,
+        "Weight": 61,
+        "EntryDateTime": "2024-09-10T10:31:20.915207"
+    },
+    {
+        "LiftId": "4bfd51f0-c71d-44fe-96b3-756b4af83aea",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 13,
+        "Weight": 82,
+        "EntryDateTime": "2024-09-09T10:31:20.915217"
+    },
+    {
+        "LiftId": "0c202c13-5d14-4463-96eb-f01ca351b8aa",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 11,
+        "Weight": 74,
+        "EntryDateTime": "2024-09-08T10:31:20.915229"
+    },
+    {
+        "LiftId": "b4d19a53-772e-4996-9eb0-fab26411e881",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 14,
+        "Weight": 90,
+        "EntryDateTime": "2024-09-07T10:31:20.915239"
+    },
+    {
+        "LiftId": "3920995c-12b5-4e67-886d-ee87e7485496",
+        "MainMuscleId": "a973fe1a-bf2a-46d0-899e-1b2d9a2b777f",
+        "Reps": 15,
+        "Weight": 69,
+        "EntryDateTime": "2024-09-06T10:31:20.915249"
+    },
+    {
+        "LiftId": "003dab41-f174-4d25-8fee-4895e99f5e1c",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 11,
+        "Weight": 77,
+        "EntryDateTime": "2024-09-15T10:31:20.915261"
+    },
+    {
+        "LiftId": "cc82bccf-51c9-438a-a046-330168648c10",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 11,
+        "Weight": 69,
+        "EntryDateTime": "2024-09-14T10:31:20.915271"
+    },
+    {
+        "LiftId": "5e53e615-b486-4944-aedc-d3518977f854",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 9,
+        "Weight": 67,
+        "EntryDateTime": "2024-09-13T10:31:20.915282"
+    },
+    {
+        "LiftId": "170ab734-4d33-4379-b8b4-2ff15efaf792",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 11,
+        "Weight": 82,
+        "EntryDateTime": "2024-09-12T10:31:20.915293"
+    },
+    {
+        "LiftId": "132ab470-23b2-46f6-b876-a42485c77eaf",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 12,
+        "Weight": 69,
+        "EntryDateTime": "2024-09-11T10:31:20.915303"
+    },
+    {
+        "LiftId": "8250afb0-38d6-4535-afb4-a5c8c0e4f226",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 11,
+        "Weight": 69,
+        "EntryDateTime": "2024-09-10T10:31:20.915314"
+    },
+    {
+        "LiftId": "b483fb6b-441f-4559-9391-976fef01bef8",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 9,
+        "Weight": 95,
+        "EntryDateTime": "2024-09-09T10:31:20.915324"
+    },
+    {
+        "LiftId": "4ce665f7-941b-4e1b-a73d-99ec65cecf83",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 10,
+        "Weight": 49,
+        "EntryDateTime": "2024-09-08T10:31:20.915360"
+    },
+    {
+        "LiftId": "c376e51c-904e-45d7-9506-83a0e80d12b4",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 11,
+        "Weight": 68,
+        "EntryDateTime": "2024-09-07T10:31:20.915371"
+    },
+    {
+        "LiftId": "61a746b3-d699-4920-b315-8807e4d11deb",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 10,
+        "Weight": 91,
+        "EntryDateTime": "2024-09-06T10:31:20.915382"
+    },
+    {
+        "LiftId": "8323d692-eb53-4117-9fc0-6d1713fadb0f",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 14,
+        "Weight": 63,
+        "EntryDateTime": "2024-09-15T10:31:20.915395"
+    },
+    {
+        "LiftId": "d98064dd-129b-4b81-978e-a3cd90c57a10",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 8,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-14T10:31:20.915405"
+    },
+    {
+        "LiftId": "75b20940-bf37-47fa-83a9-43232ba0dc24",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 9,
+        "Weight": 70,
+        "EntryDateTime": "2024-09-13T10:31:20.915415"
+    },
+    {
+        "LiftId": "a9fc4db0-74e9-404e-b352-43350372ddd2",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 9,
+        "Weight": 55,
+        "EntryDateTime": "2024-09-12T10:31:20.915427"
+    },
+    {
+        "LiftId": "5adcffe7-22f6-4af5-a40b-bd3bb36d551c",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 11,
+        "Weight": 82,
+        "EntryDateTime": "2024-09-11T10:31:20.915437"
+    },
+    {
+        "LiftId": "a65ff212-056b-43ea-a21d-62e8a8aef073",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 14,
+        "Weight": 49,
+        "EntryDateTime": "2024-09-10T10:31:20.915456"
+    },
+    {
+        "LiftId": "323600a1-7dd8-4387-b23c-12e23cb96597",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 14,
+        "Weight": 80,
+        "EntryDateTime": "2024-09-09T10:31:20.915485"
+    },
+    {
+        "LiftId": "74ebdfc3-87a1-4263-ae2f-d5315d6d32a0",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 10,
+        "Weight": 76,
+        "EntryDateTime": "2024-09-08T10:31:20.915502"
+    },
+    {
+        "LiftId": "7efebed8-99e6-4fc4-a2c0-61aaa9bbd1a4",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 14,
+        "Weight": 55,
+        "EntryDateTime": "2024-09-07T10:31:20.915539"
+    },
+    {
+        "LiftId": "cf666211-5a5b-4012-bfed-da52519ddd7a",
+        "MainMuscleId": "0f51832b-8f03-49b8-b18e-abbad5ecfee9",
+        "Reps": 10,
+        "Weight": 78,
+        "EntryDateTime": "2024-09-06T10:31:20.915578"
+    },
+    {
+        "LiftId": "14bb0ec3-251d-4908-b01a-e14ebbbf0c00",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 11,
+        "Weight": 64,
+        "EntryDateTime": "2024-09-15T10:31:20.915589"
+    },
+    {
+        "LiftId": "8df489c7-52b5-4f9a-998c-f24175e0ff23",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 15,
+        "Weight": 82,
+        "EntryDateTime": "2024-09-14T10:31:20.915599"
+    },
+    {
+        "LiftId": "fc557e65-78d4-403d-bb39-72f747c8a6dd",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 14,
+        "Weight": 74,
+        "EntryDateTime": "2024-09-13T10:31:20.915610"
+    },
+    {
+        "LiftId": "f34e3742-8157-48cd-89a0-c856621839af",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 14,
+        "Weight": 85,
+        "EntryDateTime": "2024-09-12T10:31:20.915620"
+    },
+    {
+        "LiftId": "78788e44-3328-4c23-a1c0-25e7ef276929",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 12,
+        "Weight": 93,
+        "EntryDateTime": "2024-09-11T10:31:20.915630"
+    },
+    {
+        "LiftId": "804f55b5-adf5-42a4-a21d-d7838e26d49c",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 14,
+        "Weight": 100,
+        "EntryDateTime": "2024-09-10T10:31:20.915642"
+    },
+    {
+        "LiftId": "606dfde7-4010-40d3-976d-51a9d7470d79",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 8,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-09T10:31:20.915660"
+    },
+    {
+        "LiftId": "be2abf30-36c9-46c5-9ead-3ceaf245d353",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 14,
+        "Weight": 86,
+        "EntryDateTime": "2024-09-08T10:31:20.915670"
+    },
+    {
+        "LiftId": "d421ba53-6630-44fa-82d7-bbcd234bfc6d",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 10,
+        "Weight": 60,
+        "EntryDateTime": "2024-09-07T10:31:20.915680"
+    },
+    {
+        "LiftId": "a750edf2-a9d2-48bf-bd22-8f7e40f88314",
+        "MainMuscleId": "a8a8b5e2-b8d5-4d7b-acee-362042416bfe",
+        "Reps": 8,
+        "Weight": 85,
+        "EntryDateTime": "2024-09-06T10:31:20.915690"
+    },
+    {
+        "LiftId": "b7c1bb44-9c39-4e7f-af43-6c63832c99ea",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 10,
+        "Weight": 77,
+        "EntryDateTime": "2024-09-15T10:31:20.915701"
+    },
+    {
+        "LiftId": "027f5863-7769-465c-a8bf-b21e6c9b355f",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 10,
+        "Weight": 64,
+        "EntryDateTime": "2024-09-14T10:31:20.915712"
+    },
+    {
+        "LiftId": "94587716-fb56-45d0-99d1-140e9088f9b1",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 9,
+        "Weight": 64,
+        "EntryDateTime": "2024-09-13T10:31:20.915722"
+    },
+    {
+        "LiftId": "8af10c6d-e1bb-4457-bfe6-c15696eaa04c",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 9,
+        "Weight": 94,
+        "EntryDateTime": "2024-09-12T10:31:20.915733"
+    },
+    {
+        "LiftId": "a0d531ab-d892-45a1-879f-86650037408e",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 8,
+        "Weight": 67,
+        "EntryDateTime": "2024-09-11T10:31:20.915744"
+    },
+    {
+        "LiftId": "a50c5453-3cbb-4382-ad73-1114592756f2",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 14,
+        "Weight": 76,
+        "EntryDateTime": "2024-09-10T10:31:20.915754"
+    },
+    {
+        "LiftId": "a4deaf9f-d915-4ceb-a687-4bd4a0d615bb",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 10,
+        "Weight": 70,
+        "EntryDateTime": "2024-09-09T10:31:20.915765"
+    },
+    {
+        "LiftId": "fb53ae4d-33bd-4a78-bec0-ba18a3ea452b",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 11,
+        "Weight": 45,
+        "EntryDateTime": "2024-09-08T10:31:20.915776"
+    },
+    {
+        "LiftId": "fe9a500c-ab42-4566-89a3-96e89b33b2ae",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 13,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-07T10:31:20.915786"
+    },
+    {
+        "LiftId": "2d7d523c-ca11-4a93-973a-969b2deb19d7",
+        "MainMuscleId": "9950ccff-4109-423f-a7d0-e9574e7ece6f",
+        "Reps": 8,
+        "Weight": 56,
+        "EntryDateTime": "2024-09-06T10:31:20.915796"
+    },
+    {
+        "LiftId": "7afb0022-c35a-48de-af27-5f1c6ea0269e",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 11,
+        "Weight": 76,
+        "EntryDateTime": "2024-09-15T10:31:20.915815"
+    },
+    {
+        "LiftId": "64811831-e784-4230-ac99-75db0455af17",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 14,
+        "Weight": 65,
+        "EntryDateTime": "2024-09-14T10:31:20.915829"
+    },
+    {
+        "LiftId": "f0df8577-0a92-4991-9922-d38794e37c99",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 9,
+        "Weight": 87,
+        "EntryDateTime": "2024-09-13T10:31:20.915840"
+    },
+    {
+        "LiftId": "3518f584-5559-4dfa-8632-2c63877a0092",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 15,
+        "Weight": 46,
+        "EntryDateTime": "2024-09-12T10:31:20.915850"
+    },
+    {
+        "LiftId": "b7e34486-55e4-4663-8494-cd9135539a22",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 9,
+        "Weight": 91,
+        "EntryDateTime": "2024-09-11T10:31:20.915860"
+    },
+    {
+        "LiftId": "243fd2a8-2190-45a0-8d13-71ce20c4a5ae",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 13,
+        "Weight": 97,
+        "EntryDateTime": "2024-09-10T10:31:20.915880"
+    },
+    {
+        "LiftId": "01a377fa-0e59-49ca-a875-07ceb74c5805",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 14,
+        "Weight": 66,
+        "EntryDateTime": "2024-09-09T10:31:20.916040"
+    },
+    {
+        "LiftId": "c0a03130-f72a-4eb5-ba35-515cbe03a005",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 14,
+        "Weight": 74,
+        "EntryDateTime": "2024-09-08T10:31:20.916097"
+    },
+    {
+        "LiftId": "e5f5b4f8-dbd6-4b4b-b06a-839c09d15a6b",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 12,
+        "Weight": 81,
+        "EntryDateTime": "2024-09-07T10:31:20.916141"
+    },
+    {
+        "LiftId": "8affa191-2125-4b3f-b5d1-94ad873e5a61",
+        "MainMuscleId": "97f72b8d-28f1-41a8-af80-4daaad7f527d",
+        "Reps": 9,
+        "Weight": 91,
+        "EntryDateTime": "2024-09-06T10:31:20.916178"
+    },
+    {
+        "LiftId": "7310b273-4bb1-41c3-86b8-0fd6fa1f272b",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 13,
+        "Weight": 46,
+        "EntryDateTime": "2024-09-15T10:31:20.916213"
+    },
+    {
+        "LiftId": "37472ccd-86a3-403e-86c6-531a2536b0cd",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 14,
+        "Weight": 67,
+        "EntryDateTime": "2024-09-14T10:31:20.916247"
+    },
+    {
+        "LiftId": "bb9e6121-1789-42d6-b61f-ff36f48699f6",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 14,
+        "Weight": 83,
+        "EntryDateTime": "2024-09-13T10:31:20.916279"
+    },
+    {
+        "LiftId": "e9c26aca-f975-4da2-8970-080eee4a93a7",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 10,
+        "Weight": 61,
+        "EntryDateTime": "2024-09-12T10:31:20.916298"
+    },
+    {
+        "LiftId": "746eb1f7-7dc5-4d7d-b6cb-c11312468ed3",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 13,
+        "Weight": 58,
+        "EntryDateTime": "2024-09-11T10:31:20.916316"
+    },
+    {
+        "LiftId": "387b3fb1-6dfe-4898-99cc-7685ec928945",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 14,
+        "Weight": 52,
+        "EntryDateTime": "2024-09-10T10:31:20.916335"
+    },
+    {
+        "LiftId": "749fa239-6a6d-4b82-bf42-4ca1ecf8a1cf",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 10,
+        "Weight": 91,
+        "EntryDateTime": "2024-09-09T10:31:20.916352"
+    },
+    {
+        "LiftId": "35e090a9-38d4-4ea0-a854-4e84e83bdc35",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 15,
+        "Weight": 87,
+        "EntryDateTime": "2024-09-08T10:31:20.916368"
+    },
+    {
+        "LiftId": "d87b56de-a180-4b5f-a9d6-47acf223c0ac",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 15,
+        "Weight": 59,
+        "EntryDateTime": "2024-09-07T10:31:20.916385"
+    },
+    {
+        "LiftId": "0d53d5f5-df34-46b8-92dd-95e45fb2c2e0",
+        "MainMuscleId": "0c52f10e-4c01-46e2-9bf7-96de16b69e15",
+        "Reps": 9,
+        "Weight": 72,
+        "EntryDateTime": "2024-09-06T10:31:20.916401"
+    },
+    {
+        "LiftId": "919a7fea-06b5-4d1c-b3e8-00c7562cfae8",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 15,
+        "Weight": 88,
+        "EntryDateTime": "2024-09-15T10:31:20.916417"
+    },
+    {
+        "LiftId": "a7d1eead-90b7-4568-901f-42c15a3071fd",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 8,
+        "Weight": 61,
+        "EntryDateTime": "2024-09-14T10:31:20.916433"
+    },
+    {
+        "LiftId": "7e7b9c0b-96bf-4428-be0a-c6dc70497f73",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 15,
+        "Weight": 62,
+        "EntryDateTime": "2024-09-13T10:31:20.916452"
+    },
+    {
+        "LiftId": "fa3303ce-55ef-4fbf-a460-c955f36acdf2",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 15,
+        "Weight": 65,
+        "EntryDateTime": "2024-09-12T10:31:20.916487"
+    },
+    {
+        "LiftId": "3884599a-f0a3-4b47-9cd0-39a0c4a321ac",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 11,
+        "Weight": 89,
+        "EntryDateTime": "2024-09-11T10:31:20.916508"
+    },
+    {
+        "LiftId": "c719bb8e-982e-4175-a45d-b723fe84f43d",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 13,
+        "Weight": 59,
+        "EntryDateTime": "2024-09-10T10:31:20.916524"
+    },
+    {
+        "LiftId": "f6100dc2-8a9a-4973-8136-cf7e7be148a5",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 14,
+        "Weight": 87,
+        "EntryDateTime": "2024-09-09T10:31:20.916540"
+    },
+    {
+        "LiftId": "a7a3ca87-deb5-4bf3-b317-14ec795a7d16",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 12,
+        "Weight": 55,
+        "EntryDateTime": "2024-09-08T10:31:20.916557"
+    },
+    {
+        "LiftId": "7283fe68-6c8e-428e-a2f5-d16257526279",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 9,
+        "Weight": 68,
+        "EntryDateTime": "2024-09-07T10:31:20.916574"
+    },
+    {
+        "LiftId": "3a4acacf-df2e-4cc2-8699-d0530ce0fc1a",
+        "MainMuscleId": "cb3d6b22-f8c2-4db8-a059-130349044367",
+        "Reps": 9,
+        "Weight": 63,
+        "EntryDateTime": "2024-09-06T10:31:20.916590"
+    },
+    {
+        "LiftId": "101906aa-997c-44b4-a9bb-3bffe4a7023d",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 10,
+        "Weight": 85,
+        "EntryDateTime": "2024-09-15T10:31:20.916607"
+    },
+    {
+        "LiftId": "8f5eec66-7fdf-4f46-b4ee-75fbf6721a25",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 8,
+        "Weight": 95,
+        "EntryDateTime": "2024-09-14T10:31:20.916625"
+    },
+    {
+        "LiftId": "787859af-b4bf-488a-9ab6-ed1dfc135374",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 13,
+        "Weight": 89,
+        "EntryDateTime": "2024-09-13T10:31:20.916643"
+    },
+    {
+        "LiftId": "18739a59-b5b0-44a6-a42d-e7b74b7b99f4",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 9,
+        "Weight": 66,
+        "EntryDateTime": "2024-09-12T10:31:20.916662"
+    },
+    {
+        "LiftId": "f0c65a55-c2f6-4183-99f9-5cb1ddec4af1",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 13,
+        "Weight": 48,
+        "EntryDateTime": "2024-09-11T10:31:20.916681"
+    },
+    {
+        "LiftId": "b028911e-30cf-42dd-b1dc-bce850d13fb1",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 11,
+        "Weight": 56,
+        "EntryDateTime": "2024-09-10T10:31:20.916700"
+    },
+    {
+        "LiftId": "47768c65-7195-413c-a48d-fe9827d46893",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 10,
+        "Weight": 52,
+        "EntryDateTime": "2024-09-09T10:31:20.916718"
+    },
+    {
+        "LiftId": "a0da862e-ce6a-4980-84a2-d64a0c956997",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 15,
+        "Weight": 68,
+        "EntryDateTime": "2024-09-08T10:31:20.916736"
+    },
+    {
+        "LiftId": "5b9e9fc0-225c-4ab8-8dfa-1f7238ca43fb",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 14,
+        "Weight": 100,
+        "EntryDateTime": "2024-09-07T10:31:20.916751"
+    },
+    {
+        "LiftId": "a2ca1a50-cf71-4bff-8062-bf573e7dab6e",
+        "MainMuscleId": "9ed3326d-58d6-4431-8b57-45c79b54c3b7",
+        "Reps": 13,
+        "Weight": 79,
+        "EntryDateTime": "2024-09-06T10:31:20.916768"
+    },
+    {
+        "LiftId": "561e56e4-1d51-4be1-b546-43d15cd33824",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 10,
+        "Weight": 70,
+        "EntryDateTime": "2024-09-15T10:31:20.916784"
+    },
+    {
+        "LiftId": "864a90f1-9617-4ffd-9c4b-3b33cec3ccb8",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 14,
+        "Weight": 50,
+        "EntryDateTime": "2024-09-14T10:31:20.916799"
+    },
+    {
+        "LiftId": "54b26015-6375-4678-93cd-42e461395f98",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 14,
+        "Weight": 51,
+        "EntryDateTime": "2024-09-13T10:31:20.916813"
+    },
+    {
+        "LiftId": "a3c97955-cccb-4a69-b845-5c06f1b041e5",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 13,
+        "Weight": 70,
+        "EntryDateTime": "2024-09-12T10:31:20.916828"
+    },
+    {
+        "LiftId": "56371161-6191-4694-902c-4a6706f417f6",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 15,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-11T10:31:20.916843"
+    },
+    {
+        "LiftId": "48f5e31e-d371-4adc-b4f5-43b1c74662f8",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 9,
+        "Weight": 92,
+        "EntryDateTime": "2024-09-10T10:31:20.916859"
+    },
+    {
+        "LiftId": "9f331822-4f90-4eb9-8483-0e51e875bf14",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 9,
+        "Weight": 51,
+        "EntryDateTime": "2024-09-09T10:31:20.916874"
+    },
+    {
+        "LiftId": "822e97b2-fdbf-47a6-b930-59b7d7787540",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 13,
+        "Weight": 52,
+        "EntryDateTime": "2024-09-08T10:31:20.916892"
+    },
+    {
+        "LiftId": "815de932-8a57-49b6-923e-de5cddd73c6d",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 10,
+        "Weight": 56,
+        "EntryDateTime": "2024-09-07T10:31:20.916907"
+    },
+    {
+        "LiftId": "d48e3560-87d0-412b-aba8-4d59812e31e7",
+        "MainMuscleId": "43ccd70f-3c87-477b-ae47-528f0a28f86f",
+        "Reps": 8,
+        "Weight": 57,
+        "EntryDateTime": "2024-09-06T10:31:20.916929"
+    },
+    {
+        "LiftId": "1cf24bdd-306a-4d11-b009-7263fc94d678",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 9,
+        "Weight": 68,
+        "EntryDateTime": "2024-09-15T10:31:20.916964"
+    },
+    {
+        "LiftId": "a70fccb9-edc9-431f-8792-77702e15e9fd",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 13,
+        "Weight": 63,
+        "EntryDateTime": "2024-09-14T10:31:20.916998"
+    },
+    {
+        "LiftId": "022f0a4a-2f72-4783-b5b6-20a194625d9b",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 8,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-13T10:31:20.917017"
+    },
+    {
+        "LiftId": "0e42061c-02e7-492a-a373-7884cf475e7c",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 10,
+        "Weight": 88,
+        "EntryDateTime": "2024-09-12T10:31:20.917036"
+    },
+    {
+        "LiftId": "ac46ce47-0fd3-4eb9-9fa4-a86f722b96df",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 14,
+        "Weight": 91,
+        "EntryDateTime": "2024-09-11T10:31:20.917083"
+    },
+    {
+        "LiftId": "c7e641fe-4cb6-4a08-b56f-c71b15f52f2f",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 10,
+        "Weight": 77,
+        "EntryDateTime": "2024-09-10T10:31:20.917103"
+    },
+    {
+        "LiftId": "efd847e9-3fbf-40b3-aebe-00abe67d6b23",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 15,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-09T10:31:20.917121"
+    },
+    {
+        "LiftId": "d97d81fe-77df-48dd-a142-9939562d430d",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 54,
+        "EntryDateTime": "2024-09-08T10:31:20.917138"
+    },
+    {
+        "LiftId": "03c39c9c-76ab-4d4e-bc73-57573346070f",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 15,
+        "Weight": 63,
+        "EntryDateTime": "2024-09-07T10:31:20.917155"
+    },
+    {
+        "LiftId": "b31e0b34-7a28-447b-b25d-43f2da824111",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 10,
+        "Weight": 86,
+        "EntryDateTime": "2024-09-06T10:31:20.917190"
+    },
+    {
+        "LiftId": "742a2899-23d9-4bbd-9814-406b3a9b08fd",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 84,
+        "EntryDateTime": "2024-09-15T10:31:20.917208"
+    },
+    {
+        "LiftId": "e6759534-ad99-4c97-8df9-e1c78090ce3d",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 13,
+        "Weight": 68,
+        "EntryDateTime": "2024-09-14T10:31:20.917224"
+    },
+    {
+        "LiftId": "056f6f20-3dae-48bf-ab79-e46e72950fee",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 13,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-13T10:31:20.917241"
+    },
+    {
+        "LiftId": "1c9c1790-6aac-4f9d-8191-1d220c2f7bb7",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 12,
+        "Weight": 66,
+        "EntryDateTime": "2024-09-12T10:31:20.917257"
+    },
+    {
+        "LiftId": "ad22b161-3ee0-46a1-a4a2-c1d2343bef25",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 92,
+        "EntryDateTime": "2024-09-11T10:31:20.917274"
+    },
+    {
+        "LiftId": "2837857f-3ffd-4c6d-990f-a0e68345214c",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 98,
+        "EntryDateTime": "2024-09-10T10:31:20.917290"
+    },
+    {
+        "LiftId": "33cf21de-e111-4f52-aab8-0b9c35b9bef6",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 59,
+        "EntryDateTime": "2024-09-09T10:31:20.917307"
+    },
+    {
+        "LiftId": "92024a99-b913-4ad5-b9df-27634325a0b9",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 9,
+        "Weight": 77,
+        "EntryDateTime": "2024-09-08T10:31:20.917323"
+    },
+    {
+        "LiftId": "4290ea15-c022-4b15-8a74-68f92ea8edec",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 12,
+        "Weight": 52,
+        "EntryDateTime": "2024-09-07T10:31:20.917340"
+    },
+    {
+        "LiftId": "0da5fb7b-f513-48ff-a2f8-2ac75a5f112f",
+        "MainMuscleId": "211b3a8f-12d1-4ec4-a8f4-64d6c8dabe6f",
+        "Reps": 11,
+        "Weight": 73,
+        "EntryDateTime": "2024-09-06T10:31:20.917356"
+    }
+]
